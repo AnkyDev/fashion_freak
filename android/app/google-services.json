@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "921789665040",
+    "project_id": "fashion-freak-714ec",
+    "storage_bucket": "fashion-freak-714ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921789665040:android:db46a6c97555c18a3e5f95",
+        "android_client_info": {
+          "package_name": "com.example.fasion_freak_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921789665040-l9ohh0hh990spav6ecciirc2q0v7d9lj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fasion_freak_flutter",
+            "certificate_hash": "3ecd5dda07561b1159bf7b9338c2208d9bcc654b"
+          }
+        },
+        {
+          "client_id": "921789665040-5l0h6ga4mj0uctgm14kkabu2fqkqofmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVzU7M6V80q0oOWnpxlcaMNi05KIvhqLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921789665040-5l0h6ga4mj0uctgm14kkabu2fqkqofmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
